@@ -1,0 +1,5 @@
+{
+  "selected_model_label": "grid_tree",
+  "selection_metric": "f1",
+  "test_f1": 0.830409
+}
